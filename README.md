@@ -4,7 +4,7 @@ This is the extracted features from our dataset and the code for [Dynamic Malwar
 
 > Due to the copyright, we cannot offer this code and dataset in public anymore.
 
-> If you need the code and dataset, please submit an issue to this project and indicate your name, university and email within the issue.
+> If you need the code and dataset, please submit an application to this [form](https://docs.google.com/forms/d/e/1FAIpQLSeEV-obPPHJA052yyu6Vc_bVZVkHLghcuTXuaJHWZQA5JWYlA/viewform?fbzx=7451083866243967847).
 
 > We will reply the code and dataset to you as soon as possible.
 
